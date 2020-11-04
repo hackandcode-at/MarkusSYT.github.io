@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c741440c.chunk.css",
+    "main.js": "/static/js/main.6b555fce.chunk.js",
+    "main.js.map": "/static/js/main.6b555fce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.6b24b256.chunk.js": "/static/js/2.6b24b256.chunk.js",
+    "static/js/2.6b24b256.chunk.js.map": "/static/js/2.6b24b256.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.36461b1fbdee4dc66bb7bbdd8be0a4df.js": "/precache-manifest.36461b1fbdee4dc66bb7bbdd8be0a4df.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c741440c.chunk.css.map": "/static/css/main.c741440c.chunk.css.map",
+    "static/js/2.6b24b256.chunk.js.LICENSE.txt": "/static/js/2.6b24b256.chunk.js.LICENSE.txt",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.6a62d2b8.png",
+    "static/media/App.css": "/static/media/Laptop1.8ba56168.jpeg",
+    "static/media/Python.png": "/static/media/Python.b9bbb1d7.png",
+    "static/media/React.png": "/static/media/React.a6185c41.png",
+    "static/media/selfie.jpg": "/static/media/selfie.b7526df2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.6b24b256.chunk.js",
+    "static/css/main.c741440c.chunk.css",
+    "static/js/main.6b555fce.chunk.js"
+  ]
+}
